@@ -1,7 +1,7 @@
 package br.com.clara.screenmetch.model;
 
 public enum Categoria {
-    CAO("Action", "Ação"),
+    ACAO("Action", "Ação"),
     ROMANCE("Romance", "Romance"),
     COMEDIA("Comedy", "Comédia"),
     DRAMA("Drama", "Drama"),
